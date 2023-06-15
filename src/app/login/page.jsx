@@ -63,9 +63,4 @@ const Page = () => {
   );
 };
 
-export const metadata = {
-  title: "Login",
-  description: "This is the login page of TODO app project by Sarjil Patel",
-};
-
 export default Page;
